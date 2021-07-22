@@ -14,3 +14,9 @@ Geekhaven can work on a cryptoexchange blockchain application.
 Shivanng Puri
 IEC2020035
 We can create a health app that lets the user enter their requirements, and prepares a diet chart for them and also recommend daily menu based on this diet.
+
+Abhay Singh
+IEC2020080
+What about an application which have some resources about the experience of placements by our seniors? We can include the most general questions asked in the interviews (internships) or mistakes
+that we can avoid during our interviews. There can be lots of cusomization within the application so that it can be constrained only upto IIITA and its students (except freshers). But not sure that IIITA will allow it.
+Also I want to work on this feature request (https://github.com/GeekHaven/GeekHaven-2020/issues/28) of GeekHaven original website, it can be implemented easily if I provided with a team.
